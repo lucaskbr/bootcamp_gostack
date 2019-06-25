@@ -1,4 +1,4 @@
-# bootcamp_gostack
+# Bootcamp Gostack
 
 Todos os desafios do Bootcamp GoStack da Rocketseat.
 
